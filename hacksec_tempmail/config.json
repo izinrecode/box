@@ -1,7 +1,7 @@
 {
     "log_path": "/opt/hacksec_tempmail/hacksec.log",
     "auth": {
-        "username": "sal",
-        "password": "sal"
+        "username": "hacksec",
+        "password": "hacksec"
     }
 }
