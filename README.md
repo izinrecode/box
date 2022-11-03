@@ -11,13 +11,13 @@ spam_box is a self hosted temp mail service by hacksec for hackers
 
 ### How to install in linux
 ```bash
-curl -s -L https://raw.githubusercontent.com/ScRiPt1337/spam_box/main/install.sh | bash
+curl -s -L https://raw.githubusercontent.com/izinrecode/spam_box/main/install.sh | bash
 ```
 - if your not able to recive email after first installation restart hacksec_server service (using -> `sudo service hacksec_server restart`)
 
 ### How to uninstall
 ```bash
-curl -s -L https://raw.githubusercontent.com/ScRiPt1337/spam_box/main/uninstall.sh | bash
+curl -s -L https://raw.githubusercontent.com/izinrecode/spam_box/main/uninstall.sh | bash
 ```
 
 ### Dashboard
